@@ -1,0 +1,22 @@
+{
+    "name": "@naanatin/node-red-simple-slack-listener",
+    "version": "1.0.0",
+    "description": "Simple Slack listener node for Node-RED. Supports both Socket Mode and HTTP Receiver mode. Outputs messages compatible with RedBot format for easy integration with existing flows.",
+    "keywords": [
+        "node-red",
+        "slack",
+        "listener",
+        "socket-mode",
+        "redbot",
+        "chatbot"
+    ],
+    "dependencies": {
+        "@slack/bolt": "^3.17.0"
+    },
+    "node-red": {
+        "nodes": {
+            "slack-config": "node-red-simple-slack-listener/slack-config.js",
+            "slack-listener": "node-red-simple-slack-listener/slack-listener.js"
+        }
+    }
+}

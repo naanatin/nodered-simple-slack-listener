@@ -1,0 +1,4 @@
+node_modules/
+node-red-simple-slack-listener/node_modules/
+dist/
+.env/
