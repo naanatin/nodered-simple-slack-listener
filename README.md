@@ -30,7 +30,7 @@ Or inside Node-RED user directory:
 
 ```bash
 cd ~/.node-red
-npm install naanatin/node-red-simple-slack-listener
+npm install @naanatin/node-red-simple-slack-listener
 ```
 
 ## Configuration

@@ -1,6 +1,10 @@
 {
     "name": "@naanatin/node-red-simple-slack-listener",
     "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/naanatin/nodered-simple-slack-listener.git"
+    },
     "description": "Simple Slack listener node for Node-RED. Supports both Socket Mode and HTTP Receiver mode. Outputs messages compatible with RedBot format for easy integration with existing flows.",
     "keywords": [
         "node-red",
