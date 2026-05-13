@@ -24,13 +24,13 @@ Instead of upgrading the full stack, this node was created as a drop-in replacem
 ## Installation
 
 ```bash
-npm install github:@naanatin/node-red-simple-slack-listener
+npm install @naanatin/node-red-simple-slack-listener
 ```
 Or inside Node-RED user directory:
 
 ```bash
 cd ~/.node-red
-npm install github:@naanatin/node-red-simple-slack-listener
+npm install naanatin/node-red-simple-slack-listener
 ```
 
 ## Configuration
