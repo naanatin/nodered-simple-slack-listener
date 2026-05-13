@@ -1,6 +1,6 @@
 {
     "name": "@naanatin/node-red-simple-slack-listener",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "repository": {
         "type": "git",
         "url": "https://github.com/naanatin/nodered-simple-slack-listener.git"
